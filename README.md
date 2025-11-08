@@ -1,6 +1,13 @@
 # TP7-JAX-RS - Gestion de Comptes Bancaires
 
 Ce projet est une application web basée sur Spring Boot qui expose une API RESTful pour la gestion de comptes bancaires. Il utilise JAX-RS avec l'implémentation Jersey pour la création des services web.
+<img width="1729" height="876" alt="image" src="https://github.com/user-attachments/assets/5a085234-b61f-48c5-b6d2-c912a56addc6" />
+<img width="1909" height="983" alt="image" src="https://github.com/user-attachments/assets/b010fbd0-46d2-4334-b498-7514e2242ee1" />
+<img width="1360" height="885" alt="image" src="https://github.com/user-attachments/assets/14c1070c-8c18-4c47-a994-36cc5b23e794" />
+<img width="1417" height="884" alt="image" src="https://github.com/user-attachments/assets/64c7e803-a065-4e2f-995a-42b22398b6db" />
+<img width="1371" height="933" alt="image" src="https://github.com/user-attachments/assets/a5f7dc6c-1af0-46d5-8141-c91dcd7814a1" />
+<img width="1373" height="879" alt="image" src="https://github.com/user-attachments/assets/b7a6f914-39cd-417d-82ef-ab104b29780e" />
+<img width="1313" height="703" alt="image" src="https://github.com/user-attachments/assets/5d8cf957-50c4-42c4-8e75-5dd65e5e577d" />
 
 ## Structure du Projet
 
